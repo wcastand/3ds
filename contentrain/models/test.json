@@ -71,5 +71,14 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "descrition",
+    "fieldId": "descrition",
+    "modelId": "test",
+    "componentId": "multi-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
