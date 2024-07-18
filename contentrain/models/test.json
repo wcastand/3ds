@@ -58,5 +58,18 @@
     "system": true,
     "defaultField": false,
     "modelId": "test"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "test",
+    "componentId": "single-line-text",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
   }
 ]
