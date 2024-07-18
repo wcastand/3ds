@@ -2,11 +2,11 @@
   {
     "ID": "a1b3adcb7bb6",
     "createdAt": "Thu Jul 18 2024 15:18:39 GMT+0200 (Central European Summer Time)",
-    "updatedAt": "Thu Jul 18 2024 15:18:39 GMT+0200 (Central European Summer Time)",
+    "updatedAt": "2024-07-18T13:19:15.233Z",
     "title": "test",
     "descrition": "teastwe ffe\newf\nwef \nwef wefwefwef",
     "body": "dqweg\nwef\nwefwefwefwfwef",
-    "status": "draft",
+    "status": "publish",
     "scheduled": false
   }
 ]
