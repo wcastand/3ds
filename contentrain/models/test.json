@@ -73,7 +73,7 @@
     "fieldType": "string"
   },
   {
-    "name": "descrition",
+    "name": "description",
     "fieldId": "descrition",
     "modelId": "test",
     "componentId": "multi-line-text",
